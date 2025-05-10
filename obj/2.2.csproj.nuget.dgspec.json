@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michaelobrien/CS222/Code/Chapter02/2.2/2.2.csproj": {}
+    "/Users/michaelobrien/Studio/carolina-university/cs222_w1/2.2.csproj": {}
   },
   "projects": {
-    "/Users/michaelobrien/CS222/Code/Chapter02/2.2/2.2.csproj": {
+    "/Users/michaelobrien/Studio/carolina-university/cs222_w1/2.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michaelobrien/CS222/Code/Chapter02/2.2/2.2.csproj",
+        "projectUniqueName": "/Users/michaelobrien/Studio/carolina-university/cs222_w1/2.2.csproj",
         "projectName": "2.2",
-        "projectPath": "/Users/michaelobrien/CS222/Code/Chapter02/2.2/2.2.csproj",
+        "projectPath": "/Users/michaelobrien/Studio/carolina-university/cs222_w1/2.2.csproj",
         "packagesPath": "/Users/michaelobrien/.nuget/packages/",
-        "outputPath": "/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/",
+        "outputPath": "/Users/michaelobrien/Studio/carolina-university/cs222_w1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michaelobrien/.nuget/NuGet/NuGet.Config"
