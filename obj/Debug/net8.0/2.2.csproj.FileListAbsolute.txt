@@ -1,0 +1,14 @@
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/bin/Debug/net8.0/2.2
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/bin/Debug/net8.0/2.2.deps.json
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/bin/Debug/net8.0/2.2.runtimeconfig.json
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/bin/Debug/net8.0/2.2.dll
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/bin/Debug/net8.0/2.2.pdb
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/2.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/2.2.AssemblyInfoInputs.cache
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/2.2.AssemblyInfo.cs
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/2.2.csproj.CoreCompileInputs.cache
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/2.2.dll
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/refint/2.2.dll
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/2.2.pdb
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/2.2.genruntimeconfig.cache
+/Users/michaelobrien/CS222/Code/Chapter02/2.2/obj/Debug/net8.0/ref/2.2.dll
