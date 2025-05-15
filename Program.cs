@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-string[] numberTypes = {"sbyte", "byte", "short", "ushort", "int", "uint", "long", "ulong", "float", "double", "decimal"};
+dynamic[] numberTypes = {"sbyte", "byte", "short", "ushort", "int", "uint", "long", "ulong", "float", "double", "decimal"};
 int[] byteSize = {sizeof(sbyte), sizeof(byte), sizeof(short), sizeof(ushort), sizeof(int), sizeof(uint), sizeof(long), 
                 sizeof(ulong),  sizeof(float), sizeof(double), sizeof(decimal)};
 object[] minValue = {sbyte.MinValue, byte.MinValue, short.MinValue, ushort.MinValue, int.MinValue, uint.MinValue, 
